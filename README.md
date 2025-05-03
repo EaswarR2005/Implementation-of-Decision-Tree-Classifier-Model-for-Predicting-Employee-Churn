@@ -98,7 +98,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 ### Final Predict :
 
-![EX_8_OUTPUT_9](https://github.com/user-attachments/assets/a87368e6-141a-4985-aa28-a1b2297e8dd7)
+![image](https://github.com/user-attachments/assets/61c2e508-b357-48b1-a29c-a9aadfb59ae3)
 
 
 ## Result:
